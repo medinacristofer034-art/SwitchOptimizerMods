@@ -13,3 +13,4 @@
 
 ---
 **Créditos de Arte:** Dibujo original de mi hermano (Estilo Científico Insano).
+Este proyecto es solo para fines educativos y de optimización. No se proporcionan archivos de juego. Debes poseer una copia legal del juego para usar estos mods
