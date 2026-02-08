@@ -4,7 +4,7 @@
 
 ## 🔬 Sobre este Proyecto
 ¡Bienvenido al laboratorio! Este repositorio está dedicado a la optimización extrema de la saga Kirby. 
-**Nuestra especialidad:** Juegos y versiones que han sido olvidados por otras comunidades de modding.
+**Nuestra especialidad:** Juegos y versiones que han sido olvidados por otras comunidades de modding. (Tambien planeamos Con Sagas Como Super Mario, Donkey Kong Country, The Legends Of Zelda, etc)
 
 ### 🧬 Proyectos Destacados
 * **[Kirby Star Allies]** - Parche de 60 FPS + No Outlines + Physics Fix (v4.0.0).
