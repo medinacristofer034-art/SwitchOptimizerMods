@@ -1,5 +1,7 @@
 🧪 Kirby's Scientific Sanctuary: The Ultimate Performance Lab
-(Kirby.png
+(![Kirby png](https://github.com/user-attachments/assets/67ba2df9-c5e6-4672-bdf8-fe1aa7fd9828)
+
+
 ## 🔬 Sobre este Proyecto
 ¡Bienvenido al laboratorio! Este repositorio está dedicado a la optimización extrema de la saga Kirby. 
 **Nuestra especialidad:** Juegos y versiones que han sido olvidados por otras comunidades de modding.
