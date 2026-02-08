@@ -1,26 +1,17 @@
-# SwitchOptimizerMods
-Here you will find Nintendo Switch mods that increase performance, such as 120fps or 1080p mods.
-# 🌟 Kirby Santuario: Performance Mods 🌟
+🧪 Kirby's Scientific Sanctuary: The Ultimate Performance Lab
 
-![Kirby Científico](Kirby.png)
+<p align="center">
+  <img src=Kirby.png width="400">
+</p>
 
-¡Bienvenidos al laboratorio de optimización! Aquí encontrarás mods exclusivos para la saga Kirby en Switch (Emulación).
+## 🔬 Sobre este Proyecto
+¡Bienvenido al laboratorio! Este repositorio está dedicado a la optimización extrema de la saga Kirby. 
+**Nuestra especialidad:** Juegos y versiones que han sido olvidados por otras comunidades de modding.
 
-## 🚀 Proyectos Actuales
-
-### 1. Kirby Fighters 2 (Smooth Patch)
-* **Estado:** 100% Estable.
-* **Rendimiento:** 60 FPS rocosos en 1080p.
-* **Créditos:** Testeado con +100 shaders cargando simultáneamente.
-
-### 2. Kirby Star Allies (Insane Pack v4.0.0)
-* **Estado:** Experimental / Funcional.
-* **Mejoras:** 60 FPS + Physics Fix + No Outlines.
-* **Ajuste Obligatorio:** NVDEC Emulation -> **CPU Video Decoding**.
+### 🧬 Proyectos Destacados
+* **[Kirby Star Allies]** - Parche de 60 FPS + No Outlines + Physics Fix (v4.0.0).
+* **[Kirby Fighters 2]** - Estabilidad total 1080p/60fps.
+* **[Próximamente]** - Optimizaciones para Kirby's Dream Buffet.
 
 ---
-## 🛠️ Cómo instalar
-1. Clic derecho en el juego (Yuzu/Sudachi/Ryujinx).
-2. `Abrir ubicación de los mods`.
-3. Copiar la carpeta del mod aquí.
-Este proyecto es solo para fines educativos y de optimización. No se proporcionan archivos de juego. Debes poseer una copia legal del juego para usar estos mods
+**Créditos de Arte:** Dibujo original de mi hermano (Estilo Científico Insano).
