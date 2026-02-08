@@ -23,3 +23,4 @@ Here you will find Nintendo Switch mods that increase performance, such as 120fp
 1. Clic derecho en el juego (Yuzu/Sudachi/Ryujinx).
 2. `Abrir ubicación de los mods`.
 3. Copiar la carpeta del mod aquí.
+Este proyecto es solo para fines educativos y de optimización. No se proporcionan archivos de juego. Debes poseer una copia legal del juego para usar estos mods
