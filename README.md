@@ -125,4 +125,5 @@ Porque en una PC débil, los 60 FPS suelen ser inalcanzables o muy inestables. N
 
 ¿Tu PC no corre un juego? ¡Pídelo aquí!
 
-[![Hacer Pedido](https://img.shields.io/badge/PEDIDOS-Hacer_una_solicitud-brightgreen?style=for-the-badge&logo=github)](https://github.com/TU_USUARIO/TU_REPOSITORIO/issues/new)
+[![Hacer Pedido](https://img.shields.io/badge/PEDIDOS-Hacer_una_solicitud-brightgreen?style=for-the-badge&logo=github)](https://github.com/medinacristofer034-art/SwitchOptimizerMods/issues/new)
+
