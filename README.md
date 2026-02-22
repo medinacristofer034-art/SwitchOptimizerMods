@@ -121,3 +121,8 @@ Recomendamos usar <b>Vulkan</b> como API gráfica, ya que gestiona mucho mejor l
 Porque en una PC débil, los 60 FPS suelen ser inalcanzables o muy inestables. Nuestra filosofía es que es mejor tener una experiencia de <b>30 FPS rocosos con imagen nítida de alta gama</b> que una experiencia de 60 FPS borrosa y con caídas constantes.
 </p>
 </details>
+### 📝 Zona de Pedidos
+
+¿Tu PC no corre un juego? ¡Pídelo aquí!
+
+[![Hacer Pedido](https://img.shields.io/badge/PEDIDOS-Hacer_una_solicitud-brightgreen?style=for-the-badge&logo=github)](https://github.com/TU_USUARIO/TU_REPOSITORIO/issues/new)
