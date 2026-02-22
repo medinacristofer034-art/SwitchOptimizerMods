@@ -38,3 +38,45 @@ Haz clic en el juego para ver los niveles de optimización (Patata, Intermedio, 
 ---
 
 ⚠️ **Aviso:** Este proyecto es solo para fines educativos. No se proporcionan archivos de juego (ROMs). Debes poseer una copia legal.
+❓ Preguntas Frecuentes (FAQ) - Pack de Optimización Cinematográfica
+<details>
+<summary><b>1. ¿Por qué mi juego se ve más nítido si bajé la resolución?</b></summary>
+<p>
+La "borrosidad" original no es por la resolución, sino por filtros como el <b>FXAA</b> y el <b>Depth of Field</b> (DoF). Al eliminarlos con nuestros mods, recuperas la claridad de las texturas que esos filtros emborronaban para ocultar fallos técnicos de la Switch.
+</p>
+</details>
+
+<details>
+<summary><b>2. Mi PC es muy débil, ¿debería usar 30 FPS o 60 FPS?</b></summary>
+<p>
+Para <b>Bowser's Fury</b>, recomendamos encarecidamente los <b>30 FPS Estables</b> si tienes una gráfica integrada o de gama entrada. Es preferible un tiempo de frame constante de 33.3ms que unos 60 FPS que saltan y causan tirones (stuttering). Para <b>3D World</b>, puedes intentar los 60 FPS ya que es mucho más ligero.
+</p>
+</details>
+
+<details>
+<summary><b>3. ¿Estos mods aumentan la temperatura de mi laptop/PC?</b></summary>
+<p>
+¡Al contrario! Al simplificar las sombras y eliminar efectos de partículas (lluvia/fuego), la GPU y la CPU trabajan menos. Esto reduce el consumo de energía y mantiene tu hardware más fresco durante sesiones largas de juego.
+</p>
+</details>
+
+<details>
+<summary><b>4. ¿Funcionan en otras versiones del juego que no sean la v1.1.0?</b></summary>
+<p>
+No se recomienda. Los códigos <b>.pchtxt</b> buscan direcciones de memoria específicas que cambian entre versiones. Usarlos en la v1.0.0 podría causar crasheos o simplemente no activarse.
+</p>
+</details>
+
+<details>
+<summary><b>5. ¿Puedo combinar estos mods con otros de texturas HD?</b></summary>
+<p>
+Puedes, pero si tienes una PC débil, <b>no lo recomendamos</b>. Los mods de texturas HD consumen mucha VRAM, lo que anularía el beneficio de rendimiento de nuestros mods de sombras y partículas. Nuestro pack busca la "belleza por nitidez", no por peso de archivos.
+</p>
+</details>
+
+<details>
+<summary><b>6. ¿Por qué el agua se ve diferente en Bowser's Fury?</b></summary>
+<p>
+Hemos aplicado el <b>Water Simplification</b> para reducir los reflejos en tiempo real sobre el mar. Esto ahorra muchísima potencia de procesamiento, permitiendo que puedas subir el escalado a 1.5x o 2K sin perder fluidez.
+</p>
+</details>
