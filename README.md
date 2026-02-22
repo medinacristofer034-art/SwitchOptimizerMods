@@ -38,45 +38,45 @@ Haz clic en el juego para ver los niveles de optimización (Patata, Intermedio, 
 ---
 
 ⚠️ **Aviso:** Este proyecto es solo para fines educativos. No se proporcionan archivos de juego (ROMs). Debes poseer una copia legal.
-❓ Preguntas Frecuentes (FAQ) - Pack de Optimización Cinematográfica
+🌐 Preguntas Frecuentes: Optimización General y Hardware
 <details>
-<summary><b>1. ¿Por qué mi juego se ve más nítido si bajé la resolución?</b></summary>
+<summary><b>7. ¿Mi procesador i3 o Ryzen 3 es suficiente para estos mods?</b></summary>
 <p>
-La "borrosidad" original no es por la resolución, sino por filtros como el <b>FXAA</b> y el <b>Depth of Field</b> (DoF). Al eliminarlos con nuestros mods, recuperas la claridad de las texturas que esos filtros emborronaban para ocultar fallos técnicos de la Switch.
+¡Sí! La mayoría de los mods del pack están diseñados para reducir el estrés tanto en la GPU como en la CPU. Al bloquear los frames a 30 FPS y simplificar partículas, evitamos el "cuello de botella" que suele ocurrir en procesadores de 4 núcleos al intentar procesar físicas complejas.
 </p>
 </details>
 
 <details>
-<summary><b>2. Mi PC es muy débil, ¿debería usar 30 FPS o 60 FPS?</b></summary>
+<summary><b>8. ¿Por qué prefieres usar el escalado del emulador (0.5x/0.75x) en lugar de mods de resolución fija?</b></summary>
 <p>
-Para <b>Bowser's Fury</b>, recomendamos encarecidamente los <b>30 FPS Estables</b> si tienes una gráfica integrada o de gama entrada. Es preferible un tiempo de frame constante de 33.3ms que unos 60 FPS que saltan y causan tirones (stuttering). Para <b>3D World</b>, puedes intentar los 60 FPS ya que es mucho más ligero.
+El escalado nativo del emulador es más estable y no rompe la interfaz de usuario (HUD). Combinar un escalado bajo con nuestros mods de <b>No Bloom</b> y <b>No FXAA</b> ofrece una imagen mucho más limpia que cualquier mod que fuerce una resolución interna extraña.
 </p>
 </details>
 
 <details>
-<summary><b>3. ¿Estos mods aumentan la temperatura de mi laptop/PC?</b></summary>
+<summary><b>9. ¿Estos mods causan crasheos o cierres inesperados?</b></summary>
 <p>
-¡Al contrario! Al simplificar las sombras y eliminar efectos de partículas (lluvia/fuego), la GPU y la CPU trabajan menos. Esto reduce el consumo de energía y mantiene tu hardware más fresco durante sesiones largas de juego.
+Al contrario, suelen mejorar la estabilidad. Muchos cierres en gráficas integradas ocurren por falta de memoria VRAM al cargar efectos pesados como niebla o sombras dinámicas. Al simplificarlos, el consumo de memoria es más constante y seguro.
 </p>
 </details>
 
 <details>
-<summary><b>4. ¿Funcionan en otras versiones del juego que no sean la v1.1.0?</b></summary>
+<summary><b>10. ¿Puedo pedir optimizaciones para otros juegos pesados (Zelda, Mario Odyssey, etc.)?</b></summary>
 <p>
-No se recomienda. Los códigos <b>.pchtxt</b> buscan direcciones de memoria específicas que cambian entre versiones. Usarlos en la v1.0.0 podría causar crasheos o simplemente no activarse.
+¡Claro! Tenemos una sección de <b>"Pedidos"</b> en la pestaña de <i>Issues</i>. Mi enfoque es investigar juegos que actualmente son "injugables" en hardware modesto para encontrar qué procesos gráficos podemos simplificar mediante código.
 </p>
 </details>
 
 <details>
-<summary><b>5. ¿Puedo combinar estos mods con otros de texturas HD?</b></summary>
+<summary><b>11. ¿Qué configuración de emulador recomiendas para acompañar estos mods?</b></summary>
 <p>
-Puedes, pero si tienes una PC débil, <b>no lo recomendamos</b>. Los mods de texturas HD consumen mucha VRAM, lo que anularía el beneficio de rendimiento de nuestros mods de sombras y partículas. Nuestro pack busca la "belleza por nitidez", no por peso de archivos.
+Recomendamos usar <b>Vulkan</b> como API gráfica, ya que gestiona mucho mejor la memoria en tarjetas NVIDIA y gráficas integradas. También sugerimos activar el "Caché de Shaders" para evitar tirones durante el primer gameplay.
 </p>
 </details>
 
 <details>
-<summary><b>6. ¿Por qué el agua se ve diferente en Bowser's Fury?</b></summary>
+<summary><b>12. ¿Por qué el repositorio se enfoca en la nitidez antes que en los 60 FPS?</b></summary>
 <p>
-Hemos aplicado el <b>Water Simplification</b> para reducir los reflejos en tiempo real sobre el mar. Esto ahorra muchísima potencia de procesamiento, permitiendo que puedas subir el escalado a 1.5x o 2K sin perder fluidez.
+Porque en una PC débil, los 60 FPS suelen ser inalcanzables o muy inestables. Nuestra filosofía es que es mejor tener una experiencia de <b>30 FPS rocosos con imagen nítida de alta gama</b> que una experiencia de 60 FPS borrosa y con caídas constantes.
 </p>
 </details>
