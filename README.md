@@ -36,8 +36,8 @@ Haz clic en el juego para ver los niveles de optimización (Patata, Intermedio, 
 | **🚀 Ultra** | RTX / 16GB RAM | Sombras HD y máxima distancia de dibujado. |
 
 ---
-
-⚠️ **Aviso:** Este proyecto es solo para fines educativos. No se proporcionan archivos de juego (ROMs). Debes poseer una copia legal.
+ ⚠️ **Aviso:** Este proyecto es solo para fines educativos. No se proporcionan archivos de juego (ROMs). Debes poseer una copia legal.
+ 
 ❓ Preguntas Frecuentes (FAQ) - Pack de Optimización Cinematográfica
 <details>
 <summary><b>1. ¿Por qué mi juego se ve más nítido si bajé la resolución?</b></summary>
