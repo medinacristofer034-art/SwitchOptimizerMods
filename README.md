@@ -25,7 +25,10 @@ Haz clic en el juego para ver los niveles de optimización (Patata, Intermedio, 
 * **[Kirby Star Allies](./Kirby-Star-Allies/)** - Parche de 30 FPS + No Outlines + Physics Fix (v4.0.0).
 * **[Kirby Fighters 2](./Kirby-Fighters-2/)** - Estabilidad total 1080p/60fps.
 * **[Próximamente]** - Optimizaciones para Kirby's Dream Buffet y Zelda.
-* **[Super Mario Wonder]** - 60 Fps Estables, Fluidez Total Y Imagen Nitida
+* **Super Mario Wonder]** - 60 Fps Estables, Fluidez Total Y Imagen Nitida
+* **Super Mario 3D World + Bowser Fury]** - 30 Fps Estables, Agua Cristalina Y Optimizada, Imagen Nitida
+
+
 ---
 
 ## 📊 Niveles de Optimización (¿Cuál elegir?)
