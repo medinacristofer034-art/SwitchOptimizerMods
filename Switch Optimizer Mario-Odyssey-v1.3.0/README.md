@@ -1,4 +1,4 @@
- /> /># 🍄 Optimización: Super Mario Odyssey (v1.3.0)
+🍄 Optimización: Super Mario Odyssey (v1.3.0)
 
 Este pack aplica el **Nivel Patata** para eliminar el lag en zonas exigentes como New Donk City.
 
