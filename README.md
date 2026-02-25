@@ -29,7 +29,7 @@ Haz clic en el juego para ver los niveles de optimización (Patata, Intermedio, 
 * **Super Mario 3D World + Bowser Fury]** - 30 Fps Estables, Agua Cristalina Y Optimizada, Imagen Nitida
 ---
 🔥COMO PONER LOS MODS En Yuzu: Seleccionar el juego, darle Click Derecho y poner "Abrir Ubicacion De Mods", Pegasr Todos Los Mods de la carpeta de mods y listo, si quieres activarlo y desactivarlo dale Click Derecho, Ve A Propiedades y puedes activar y desactivar los mods (Indicados por un Ticket)
-
+---
 💨COMO PONER MODS En Ryujnx: Selecciona El Juego, Darle Click Izquierdo Y Poner "Abrir Directorio De Mods", Pega toos los mods de la carpeta de mods del juegpo y listo, Si quieres activarlo y desactivarlo dale click derecho al juego, pon "Gestionar Mods" Ahi Puedes Acivar Y Desactivar Los Mods (Indicados Por Un "Cuadro Celeste" O El Nombre Del Mod Esta En Gris)
 ---
 
