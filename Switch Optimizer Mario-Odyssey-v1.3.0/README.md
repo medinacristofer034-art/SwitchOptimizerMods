@@ -4,7 +4,6 @@ Este pack aplica el **Nivel Patata** para eliminar el lag en zonas exigentes com
 
 ## 📊 Comparativa de Rendimiento
 
-| Escenario Original (Stock) | Escenario Optimizado (Mod) |
 Antes (Ecsenario Borroso, Inestabilidad)
 
 <img width="1920" height="1080" alt="Captura de pantalla (122)" src="https://github.com/user-attachments/assets/3e0e1bde-9980-4afd-b266-eb30fdf67e33" />
