@@ -3,13 +3,17 @@
 Este pack aplica el **Nivel Patata** para eliminar el lag en zonas exigentes como New Donk City.
 
 ## 📊 Comparativa de Rendimiento
-| Escenario Original (Stock) | Escenario Optimizado (Mod) |
-| :---: | :---: |
-| ![Antes](![Uploading Captura de pantalla (122).png…]
-) | ![Después]![Uploading Captura de pantalla (123).png…]()
-) |
-| *Imagen con efectos pesados* | *Imagen limpia y fluida* |
 
+| Escenario Original (Stock) | Escenario Optimizado (Mod) |
+Antes (Ecsenario Borroso, Inestabilidad)
+
+<img width="1920" height="1080" alt="Captura de pantalla (122)" src="https://github.com/user-attachments/assets/6e9bff95-459f-48ce-88f8-a035ad5487cc" />
+---
+Despues Con Los Mods (Mayores Fps Y Estabilidad, Imagen Nitida Y 720p Mejorados)
+
+![Uploading Captura de pantalla (123).png…]()
+
+---
 ## ⚙️ Configuración Maestra (Ryujinx Canary)
 Para estos resultados en un **i3 + GTX 1650**, usa:
 * **Sistema:** Tamaño DRAM en **4GB**.
