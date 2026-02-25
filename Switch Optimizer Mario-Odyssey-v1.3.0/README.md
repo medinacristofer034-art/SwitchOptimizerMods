@@ -1,11 +1,13 @@
-# 🍄 Optimización: Super Mario Odyssey (v1.3.0)
+<img width="1920" height="1080" alt="Captura de pantalla (122)" src="https://github.com/user-attachments/assets/1aedb666-be56-4a96-bfe7-8d7b5b580968" /># 🍄 Optimización: Super Mario Odyssey (v1.3.0)
 
 Este pack aplica el **Nivel Patata** para eliminar el lag en zonas exigentes como New Donk City.
 
 ## 📊 Comparativa de Rendimiento
 | Escenario Original (Stock) | Escenario Optimizado (Mod) |
 | :---: | :---: |
-| ![Antes](antes.jpg) | ![Después](despues.jpg) |
+| ![Antes](![Uploading Captura de pantalla (122).png…]
+) | ![Después]![Uploading Captura de pantalla (123).png…]()
+) |
 | *Imagen con efectos pesados* | *Imagen limpia y fluida* |
 
 ## ⚙️ Configuración Maestra (Ryujinx Canary)
