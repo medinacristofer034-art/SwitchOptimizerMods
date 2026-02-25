@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Captura de pantalla (122)" src="https://github.com/user-attachments/assets/1aedb666-be56-4a96-bfe7-8d7b5b580968" /># 🍄 Optimización: Super Mario Odyssey (v1.3.0)
+ /># 🍄 Optimización: Super Mario Odyssey (v1.3.0)
 
 Este pack aplica el **Nivel Patata** para eliminar el lag en zonas exigentes como New Donk City.
 
@@ -7,7 +7,8 @@ Este pack aplica el **Nivel Patata** para eliminar el lag en zonas exigentes com
 | Escenario Original (Stock) | Escenario Optimizado (Mod) |
 Antes (Ecsenario Borroso, Inestabilidad)
 
-<img width="1920" height="1080" alt="Captura de pantalla (122)" src="https://github.com/user-attachments/assets/6e9bff95-459f-48ce-88f8-a035ad5487cc" />
+![Uploading Captura de pantalla (122).png…]()
+
 ---
 Despues Con Los Mods (Mayores Fps Y Estabilidad, Imagen Nitida Y 720p Mejorados)
 
