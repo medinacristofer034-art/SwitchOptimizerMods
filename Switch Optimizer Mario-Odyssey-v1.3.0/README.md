@@ -20,7 +20,7 @@ Para estos resultados en un **i3 + GTX 1650**, usa:
 * **Gráficos:** Backend **Vulkan** + Filtro **Bilineal**.
 * **Procesador:** Administrador de Memoria en **Host Sin Verificación**.
 ---
-* Configuracion Maestra (Yuzu Early Acess Y Parecidos)
+## ⚙️ Configuración Maestra (Yuzu Early Acess Y Parecidos)
 * **Sistema:** Memory Layout En 4GB, Y Si Tienes Graficas Integradas Ponlo En Handheld
 * **CPU:** La Mejor Opcion Es Auto
 * **Graficos:** Api Vulkan Obligatoriamente, El Vsync Activado, La Resolucion Puede Ser La Que Quieras Pero Recomendamos Poner La Escala En 1x Para Abajo (Como 0.75 O 0.5), En Adapting Filer Pon Bilinear Para Mayor Estabilidad Y AMD Super Resolution Para Mas Calidad Visual
