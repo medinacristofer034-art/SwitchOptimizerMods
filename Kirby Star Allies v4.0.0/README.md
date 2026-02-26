@@ -44,7 +44,10 @@ He seleccionado y testeado esta combinación maestra para obtener el mejor equil
 ## 🔧 Configuración Maestra De Yuzu
 
 **Sistema:** En Memory Layout Poner En 4GB VRAM, Y Si Tienes Graficas Integradas Pon El Juego en modo portatil (Cambiar de Docked A Hadheld)
+
 **Graficos:** Poner Vulkan Obligatoriamente (Sobretodo En Graficas Integradas) > [!WARNING] En NVDEC Emulation Pon En CPU Video Decoding (Si No EL Juego Ira Mal) En Resolution Pon Recomendamos Poner 1x para abajo (Ya que si subes el escalado a mas de 2x el juego se bugueara)
+
 Y En Anti-Aliasing Poner En None (Obligatorio Para mas nitidez y Fps) Y En Adapting Filter Pon En Bilinear para mas rendimiento y AMD Super Resolution Para mas calidad (Pero reduce el rendimiento)
 **Graficos Avanzados:** Pon Obligatoriamente En Normal (Si no el juego no va ir al 100%) En Anisotropic Filter Pon en Default O Subelo Para mas calidad (Pero eso ultimo reduce el rendimiento) En ASTC Recompression Method Pon En BC1 Para Mayor Rendimiento (Casi no afecta en lo visual
+
 **Varias Opciones:** Aciva El Force Maximus Clocks, (Sobre Todo en graficas integradas) Use Asynchronouis Shader Building ACTIVADO, (Muy Importante) Y Aciva El Sync to framerate video playback
