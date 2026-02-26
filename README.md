@@ -21,9 +21,9 @@ Aquí no buscamos 4K, buscamos que **puedas jugar** sin importar tu PC.
 ## 📁 Proyectos por Juego
 Haz clic en el juego para ver los niveles de optimización (Patata, Intermedio, Ultra):
 
-* ** [Super Mario Odyssey v1.3.0](./Switch%20Optimizer%20Mario-Odyssey-v1.3.0/README.md) - Especialistas en eliminar lag en New Donk City.** - Especialistas en eliminar lag en New Donk City.
-* **[Kirby Star Allies](./Kirby-Star-Allies/)** - Parche de 30 FPS + No Outlines + Physics Fix (v4.0.0).
-* **[Kirby Fighters 2](./Kirby-Fighters-2/)** - Estabilidad total 1080p/60fps.
+* ** [Super Mario Odyssey v1.3.0] - Especialistas en eliminar lag en New Donk City.
+* **[Kirby Star Allies] Parche de 30 FPS + No Outlines + Physics Fix (v4.0.0).
+* **[Kirby Fighters 2] Estabilidad total 1080p/60fps.
 * **[Próximamente]** - Optimizaciones para Kirby's Dream Buffet y Zelda.
 * **Super Mario Wonder]** - 60 Fps Estables, Fluidez Total Y Imagen Nitida
 * **Super Mario 3D World + Bowser Fury]** - 30 Fps Estables, Agua Cristalina Y Optimizada, Imagen Nitida
