@@ -3,9 +3,17 @@
 ¡Bienvenido al **Kirby's Scientific Sanctuary**! Si tienes un hardware de gama media como un **i3 + GTX 1650**, este es el lugar donde el juego deja de ser una "mancha borrosa" para convertirse en una experiencia nítida y fluida.
 
 > **Filosofía del Laboratorio:** Rendimiento por encima de calidad. Si no nos da 30 FPS estables, no entra en el santuario
+Antes (Borroso Y Muy Inestable)
+
+<img width="1920" height="1080" alt="Captura de pantalla (136)" src="https://github.com/user-attachments/assets/278b9c3c-911f-48f8-9120-c1aebb665914" />
 
 ---
 
+Despues (Mayores Fps, Estabilidad Y Mayor Nitidez)
+
+<img width="1920" height="1080" alt="Captura de pantalla (137)" src="https://github.com/user-attachments/assets/fe46a350-2b12-4371-b49c-e15789b52d00" />
+
+---
 ## 🧪 Los Experimentos (Mods Incluidos)
 
 He seleccionado y testeado esta combinación maestra para obtener el mejor equilibrio visual y técnico:
