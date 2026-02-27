@@ -35,7 +35,7 @@ Para evitar crasheos y conflictos de memoria, los códigos `.pchtxt` se han orga
 
 ## 💻 Especificaciones de Prueba
 * **GPU**: NVIDIA GTX 1650 / Intel UHD Graphics
-* **RAM**: 16GB
+* **RAM**: 8GB
 * **API**: Vulkan
 
 ---
