@@ -128,6 +128,12 @@ Porque en una PC débil, los 60 FPS suelen ser inalcanzables o muy inestables. N
 </details>
 ### 📝 Zona de Pedidos
 
+## ⚙Proyectos Destacados
+* **The Legends Of Zelda Echoes Of Wisdom:** Elimina efectos del juego que "Ensucian La Imagen" Haciendo que el juego se vea mas nitido y que vaya mil veces mejor
+* **Kirby Dream Buffet:** El juego ya no tiene casi errores, sin desincronizaciones, sin bugs y un rendimiento igual de bueno que comer un pastel
+* **Kirby Return To Dreamland Deluxe:** despues del primer nivel no tendras casi ningun tiron, los modos funcionan muy bien y muy nitido
+* **Super Smash Bros Ultimate:** Pausa las animaciones del ecenario, ahorrando recursos y consiguiendo la maxima fluidez y nitidez, ideal para partidas casuales y competitivas
+* **Super Mario 3D World + Bowser Fury:** el juego tendra muy pocos tirones, una imagen nitida apesar del escalado del juego, asi no tendremos en ponernos furioso por el juego
 ¿Tu PC no corre un juego? ¡Pídelo aquí!
 
 [![Hacer Pedido](https://img.shields.io/badge/PEDIDOS-Hacer_una_solicitud-brightgreen?style=for-the-badge&logo=github)](https://github.com/medinacristofer034-art/SwitchOptimizerMods/issues/new)
