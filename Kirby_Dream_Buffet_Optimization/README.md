@@ -17,12 +17,7 @@ Este paquete de optimización modular está diseñado para transformar la experi
 
 ---
 
-## 🛠️ Instalación (PC & Android):
-1. Haz clic derecho en el juego en tu emulador (**Yuzu / Ryujinx / Sudachi / Uzuy**).
-2. Selecciona **"Open Mod Data Location"**.
-3. Crea una carpeta llamada `Kirby_Dream_Buffet_Optimization`.
-4. Dentro, crea otra carpeta llamada `cheats`.
-5. Pega el archivo `main.pchtxt` dentro de la carpeta `cheats`.
+## 🍓Estos Mods Tambien Aplican a los demas modos aparte del modo principal
 
 ---
 
