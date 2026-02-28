@@ -126,7 +126,6 @@ Recomendamos usar <b>Vulkan</b> como API gráfica, ya que gestiona mucho mejor l
 Porque en una PC débil, los 60 FPS suelen ser inalcanzables o muy inestables. Nuestra filosofía es que es mejor tener una experiencia de <b>30 FPS rocosos con imagen nítida de alta gama</b> que una experiencia de 60 FPS borrosa y con caídas constantes.
 </p>
 </details>
-### 📝 Zona de Pedidos
 
 ## ⚙Proyectos Destacados
 * **The Legends Of Zelda Echoes Of Wisdom:** Elimina efectos del juego que "Ensucian La Imagen" Haciendo que el juego se vea mas nitido y que vaya mil veces mejor
