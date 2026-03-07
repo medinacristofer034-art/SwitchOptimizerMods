@@ -20,7 +20,11 @@ Aquí no buscamos 4K, buscamos que **puedas jugar** sin importar tu PC.
 
 ## 📁 Proyectos por Juego
 Haz clic en el juego para ver los niveles de optimización (Patata, Intermedio, Ultra):
+---
 
+[ 🇺🇸 View this page in English ](README_EN.md)
+
+---
 * ** [Super Mario Odyssey v1.3.0] - Especialistas en eliminar lag en New Donk City.
 * **[Kirby Star Allies] Parche de 30 FPS + No Outlines + Physics Fix (v4.0.0).
 * **[Kirby Fighters 2] Estabilidad total 1080p/60fps.
