@@ -22,7 +22,7 @@ Aquí no buscamos 4K, buscamos que **puedas jugar** sin importar tu PC.
 Haz clic en el juego para ver los niveles de optimización (Patata, Intermedio, Ultra):
 ---
 
-[ 🇺🇸 View this page in English ](./README.EN.md
+
 
 ---
 * ** [Super Mario Odyssey v1.3.0] - Especialistas en eliminar lag en New Donk City.
