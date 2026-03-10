@@ -1,4 +1,4 @@
-🧪 Kirby's Scientific Sanctuary : The Ultimate Performance Lab [ 🇺🇸 English Version ](./README.en.md)
+🧪 Kirby's Scientific Sanctuary : The Ultimate Performance Lab Idiomas / Languages: [Español] | English (https://github.com/medinacristofer034-art/SwitchOptimizerMods/blob/main/README.en.md)
 (![Kirby png](https://github.com/user-attachments/assets/67ba2df9-c5e6-4672-bdf8-fe1aa7fd9828)
 
 
