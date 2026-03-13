@@ -1,4 +1,4 @@
-🧪 Kirby's Scientific Sanctuary : The Ultimate Performance Lab Idiomas / Languages: [Español] | English (https://github.com/medinacristofer034-art/SwitchOptimizerMods/blob/main/README.en.md)
+🧪 Kirby's Scientific Sanctuary : The Ultimate Performance Lab 
 (![Kirby png](https://github.com/user-attachments/assets/67ba2df9-c5e6-4672-bdf8-fe1aa7fd9828)
 
 
@@ -142,3 +142,16 @@ Porque en una PC débil, los 60 FPS suelen ser inalcanzables o muy inestables. N
 
 [![Hacer Pedido](https://img.shields.io/badge/PEDIDOS-Hacer_una_solicitud-brightgreen?style=for-the-badge&logo=github)](https://github.com/medinacristofer034-art/SwitchOptimizerMods/issues/new)
 
+---
+
+> ### 📺 **Nota para Creadores de Contenido (YouTubers / Streamers)**
+> 
+> Si haces videos sobre emulación, hardware de gama media o Android, **¡eres libre de mostrar y recomendar este repositorio!** Solo te pido un par de cosas para ayudar a que la comunidad crezca:
+> 
+> * **Créditos:** Menciona el nombre del proyecto o deja el enlace directo a este GitHub en la descripción de tu video.
+> * **Honestidad:** Explica a tu audiencia que estos mods están diseñados para **rendimiento (FPS)** y no para calidad visual extrema. ¡Aquí jugamos en **"Nivel Patata"** pero con fluidez!
+> * **¡Avisame!:** Si haces un video, pásame el link en los comentarios de Reddit o por aquí. Me encantaría verlo y quizás añadirlo a una sección de "Reseñas" en el futuro.
+> 
+> *¡Gracias por ayudar a que más personas puedan jugar en sus PC y celulares sin importar sus especificaciones!* 🚀
+
+---
