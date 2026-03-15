@@ -1,4 +1,4 @@
-# 🛶 Mario & Luigi: Brothership (v1.0.0) - Extreme Optimization Pack
+# 🛶 Mario & Luigi: Brothership (v1.0.0 Y v1.0.1) - Extreme Optimization Pack
 
 Este paquete de mods está diseñado específicamente para mejorar el rendimiento en hardware de **Gama Media-Baja** (como PCs con i3 + GTX 1650) y dispositivos **Android**. El objetivo es alcanzar FPS estables manteniendo una imagen limpia en resolución 720p.
 
