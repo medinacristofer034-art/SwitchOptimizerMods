@@ -10,7 +10,7 @@ Este es el pack definitivo de optimización para **Tomodachi Life: Living The Dr
 Actualmente, existe un bug conocido en emuladores como **Eden** y **Ryujinx** donde el **suelo no se renderiza correctamente**. 
 - **Este bug NO es causado por los Mods.** Es un problema de renderizado actual del motor del emulador con esta versión del juego.
 - El juego es perfectamente jugable a pesar de este error. En cuanto salga una actualización del emulador o del juego que corrija esto, actualizaremos los mods inmediatamente.
-- **Actualizacion Mayo 2026: Gracias a las nuevas actualizaciones de Eden, el juego ya es jugable con rendimiento brutal y sin errores 
+  -Actualizacion Mayo 2026: Gracias a las nuevas actualizaciones de Eden, el juego ya es jugable con rendimiento brutal y sin errores visuales graves
 
 ## 🚀 Mejoras Incluidas
 Este pack se enfoca en eliminar la "grasa" del código visual para maximizar los FPS:
