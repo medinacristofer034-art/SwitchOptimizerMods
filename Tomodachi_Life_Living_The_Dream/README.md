@@ -1,4 +1,4 @@
-# 🏝️ Tomodachi Life: Living The Dream - Shadow Efficiency Pack v1.0.0
+# 🏝️ Tomodachi Life: Living The Dream - Pack v1.0.0 & 1.0.2
 
 ![GitHub stars](https://img.shields.io/badge/Stars-117-yellow)
 ![Category](https://img.shields.io/badge/Category-Optimization-blue)
@@ -10,6 +10,7 @@ Este es el pack definitivo de optimización para **Tomodachi Life: Living The Dr
 Actualmente, existe un bug conocido en emuladores como **Eden** y **Ryujinx** donde el **suelo no se renderiza correctamente**. 
 - **Este bug NO es causado por los Mods.** Es un problema de renderizado actual del motor del emulador con esta versión del juego.
 - El juego es perfectamente jugable a pesar de este error. En cuanto salga una actualización del emulador o del juego que corrija esto, actualizaremos los mods inmediatamente.
+- **Actualizacion Mayo 2026: Gracias a las nuevas actualizaciones de Eden, el juego ya es jugable con rendimiento brutal y sin errores 
 
 ## 🚀 Mejoras Incluidas
 Este pack se enfoca en eliminar la "grasa" del código visual para maximizar los FPS:
@@ -27,7 +28,7 @@ Este pack se enfoca en eliminar la "grasa" del código visual para maximizar los
 2. Haz clic derecho sobre **Tomodachi Life: Living The Dream**.
 3. Selecciona "Abrir ubicación de los mods".
 4. Copia las carpetas de este repositorio dentro de la carpeta de mods.
-5. ¡Disfruta de 30/60 FPS estables en la **Isla GalletEnstein**!
+5. ¡Disfruta de 30/60 FPS estables!
 
 ## 🎙️ Nota del Desarrollador
 > "Hice este pack porque el juego oficial en modo portátil es demasiado borroso y los packs de otros modders son demasiado pesados para la gente que no tiene una PC de la NASA. Aquí buscamos rendimiento real."
