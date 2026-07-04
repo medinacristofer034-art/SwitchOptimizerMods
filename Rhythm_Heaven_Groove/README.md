@@ -16,7 +16,6 @@ Como fan del ritmo, sé que en este juego los FPS no son lo único que importa: 
 Puedes activar los siguientes módulos por separado en tu emulador (Eden):
 - `Disable Dynamic Resolution`: Fija la resolución para evitar tirones.
 - `Low-Latency Mode`: Prioriza la entrada de mando y el audio (¡Fundamental!).
-- `720p/360p Dock Mod`: Optimización extrema para pantallas grandes.
 - `Simplify Effects`: Reduce partículas innecesarias para liberar GPU.
 - `Single Channel Audio`: Reduce el estrés de la CPU.
 - (Y muchos más: Disable Bloom, DoF, Fog, FXAA, Shadows).
