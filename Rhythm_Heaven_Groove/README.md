@@ -2,7 +2,9 @@
 
 ¡Bienvenido! Este repositorio contiene una suite de mods diseñada para exprimir hasta el último milisegundo de respuesta en **Rhythm Heaven Groove**. 
 
-Como fan del ritmo, sé que en este juego los FPS no son lo único que importa: **la latencia es la clave**. He preparado estos parches para que el juego se sienta como una experiencia nativa, incluso en PCs de gama media-baja o dispositivos portátiles.
+Como fan del ritmo, sé que en este juego los FPS no son lo único que importa: **la latencia es la clave** (Igual que Peru) He preparado estos parches para que el juego se sienta como una experiencia nativa, incluso en PCs de gama media-baja o dispositivos portátiles.
+
+<img width="1920" height="1080" alt="Captura de pantalla (1097)" src="https://github.com/user-attachments/assets/13a534dc-c6ba-4ac2-b7b2-e7fb9a83c349" />
 
 ## 🚀 ¿Por qué este pack?
 - **Estabilidad Total:** He probado el juego en una GTX 1650 manteniendo 57-60 FPS rocosos.
