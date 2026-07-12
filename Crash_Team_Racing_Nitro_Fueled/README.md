@@ -8,33 +8,50 @@
 - **Listo para el Competitivo:** Diseñado para mantener la fluidez milimétrica necesaria para encadenar *Perfect Drifts* y mantener el *Sacred Fire* sin micro-stutters.
 
 ## 🛠️ Módulos Disponibles (.pchtxt)
-Puedes activar los siguientes mods de manera independiente en tu emulador (Eden):
-- `30 FPS Stable & Disable Dynamic Res`: Fija los FPS nativos y desactiva el borroso escalado dinámico para una imagen nítida constante.
-- `Disable Motion Blur & FXAA`: Quita el emborronamiento al derrapar y el filtro analógico para ganar claridad visual.
-- `Disable Fog & Depth of Field (DoF)`: Elimina la niebla pesada de fondo y el desenfoque de distancia (ideal para pistas como *Cortex Castle*).
-- `No Floor Marks & Low Quality Shadows`: Desactiva las marcas de neumáticos permanentes en el suelo y simplifica las sombras dinámicas de los karts.
-- `Simplify Heavy Effects & Smoke`: Reduce la densidad de partículas en las explosiones de cajas y el humo de los tubos de escape al usar turbos.
-- `Simplify Animals Fur`: Reemplaza el pesado sombreador de pelaje dinámico de Crash, Coco, Tiny, etc., por texturas estáticas tradicionales que ahorran toneladas de VRAM.
-- `Single Channel Audio`: Mezcla el audio en un canal monoaural para reducir el estrés de procesamiento en la CPU.
-
-## ⚙️ Configuración Recomendada (Estilo Port de PC, Requiere una PC Algo potente)
-Para exprimir este pack al máximo y lograr un acabado visual espectacular, aplica estos ajustes en tu emulador:
-1. **Gráficos:** Activa un parche de 60 FPS junto con nuestro pack de optimización.
-2. **Resolución:** Si tienes una GPU dedicada (como una GTX 1650 o superior), sube el escalado de resolución a **1.5x (1620p en modo Portátil)**. El juego se verá increíblemente nítido.
-3. **Audio Fix:** Si notas chasquidos en el sonido al jugar a 60 FPS, ve a las configuraciones de Audio del emulador, cambia el motor a **SDL2** y aumenta el búfer de audio a **100 ms** para corregir la sincronización del motor.
-4. **Contenido:** Debido a que las Boxes (*Pit Stop*) requieren conexión a servidores oficiales, se recomienda encarecidamente instalar un *Save Game al 100%* en la carpeta de usuario para desbloquear todos los personajes (como Spyro o Nina) y las skins desde el inicio.
-
-## ⚠️ Nota
-Este paquete ha sido testeado rigurosamente logrando 60 FPS blindados sin caídas. Si encuentras algún inconveniente con futuras revisiones, eres libre de abrir un Issue en este repositorio.
-
-** Configuraciones del emulador (Eden, aunque tambien funciona en Yuzu, Ryujinx Y Asi)
-
-**Sistema:** Si tienes PC Patata (Gama Baja) Dejalo en Handheld (Portatil) que reduce la resolucion y detalles pero que ganas muchos FPS, y en Docked (Sobremesa) para las PC Mas potentes, que tiene mayor detalle y resolucion, pero que consume mas, y activa "Synchronize Core Speed"
-**CPU:" Dejalo en Unsafe si quieres maximos FPS (Solo que da mas Bugs visuales) Dejalo en Acurrate si quieres la menor cantidad de errores (Pero que consume mas) y Auto si no sabes que hacer
-**Graficos:** La API dejala en Vulkan si o si, y si no te inicia el juego o se ve en negro dejalo en OpenGL (Pero de manera normal, Vulkan) En la resolucion, es recomendable dejarlo en 1x para abajo (Que en 1x es 720p en portatil y 1080p en sobremesa) Y Subela si tienes una PC Mas potente (Recomendado 1.5 o 1.25) En VSync dejalo en FIFO (Activado) y en Windows Adapting Filter dejalo en Bilinear para las PC Patata (Gama Baja) y AMD Super Resolution para PC Un poco mas potentes (:
-**Graficos Avanzados:** En GPU Mode, dejalo en Fast si quieres maximos FPS, y Acurrate para la menor cantidad de errores visuales (Si quieres mi configuracion exacta, dejalo en Acurrate, aunque si te faltan FPS Dejalo en Fast) En Anisotropic Filter recomiendo dejarlo en 2x, 4x o Predeterminado (Si lo subes mas, sera mejor pero consumira mas) en ASTC Recompression Method recomiendo dejarlo en BC3 Y BC1, No cambiara nada y suma muchisimos FPS, Activa "Force Maximus Clocks" (Solo en Vulkan) Y Sync To Framerate to Videoplayback 
-**Extensiones Graficas:** Activa "Fix Bloom Effects" y "Enable Asynchronous Shader Compilation"
-
-
+Puedes activar los siguientes mods de manera independiente en tu emulador:
+- `30 FPS Stable & Disable Dynamic Res`: Fija los FPS nativos y desactiva el borroso escalado dinámico.
+- `Disable Motion Blur & FXAA`: Quita el emborronamiento al derrapar y el filtro analógico.
+- `Disable Fog & Depth of Field (DoF)`: Elimina la niebla pesada de fondo y el desenfoque de distancia.
+- `No Floor Marks & Low Quality Shadows`: Desactiva las marcas de neumáticos en el suelo y simplifica las sombras.
+- `Simplify Heavy Effects & Smoke`: Reduce partículas de explosiones y el humo de los tubos de escape.
+- `Simplify Animals Fur`: Reemplaza el pesado pelaje dinámico de los personajes por texturas estáticas (ahorra toneladas de VRAM).
+- `Single Channel Audio`: Mezcla el audio en un canal monoaural para reducir el estrés en la CPU.
 
 ---
+
+## ⚙️ Configuraciones del Emulador (Eden, Yuzu, Ryujinx, etc.)
+
+Aplica estos ajustes para replicar mi configuración exacta o adaptar el juego a tu hardware:
+
+*   **💻 Sistema:** 
+    *   Si tienes una **PC Patata (Gama Baja)** dejalo en *Handheld (Portátil)*: reduce la resolución y detalles pero ganas muchos FPS.
+    *   Para **PCs más potentes**, déjalo en *Docked (Sobremesa)*: tiene mayor detalle y resolución, aunque consume más.
+    *   Activa siempre la opción **"Synchronize Core Speed"**.
+    *   *Tip de audio:* Si notas chasquidos en el sonido al jugar a 60 FPS con el parche, sube el búfer de audio a **100 ms** en la sección de audio para corregir la sincronización del motor.
+
+*   **🧠 CPU:**
+    *   Déjalo en **Unsafe** si quieres máximos FPS (aunque puede dar más bugs visuales).
+    *   Déjalo en **Accurate** si quieres la menor cantidad de errores (pero consume más).
+    *   Déjalo en **Auto** si no sabes qué hacer.
+
+*   **🎨 Gráficos:**
+    *   **API:** Déjala en **Vulkan** sí o sí. Si no te inicia el juego o se te queda en negro, prueba en *OpenGL* (pero de manera normal, usa Vulkan).
+    *   **Resolución:** Es recomendable dejarlo en **1x hacia abajo** (1x equivale a 720p en portátil y 1080p en sobremesa). Súbela si tienes una PC más potente (Recomendado **1.25x** o **1.5x** para lograr 1620p).
+    *   **VSync:** Déjalo en **FIFO (Activado)**.
+    *   **Window Adapting Filter:** Déjalo en **Bilinear** para las PC Patata (Gama Baja) y en **AMD Super Resolution** para PCs un poco más potentes.
+
+*   **🚀 Gráficos Avanzados:**
+    *   **GPU Mode:** Déjalo en **Fast** si quieres máximos FPS, y en **Accurate** para la menor cantidad de errores visuales. *(Si quieres mi configuración exacta, déjalo en Accurate, aunque si te faltan FPS pásalo a Fast)*.
+    *   **Anisotropic Filter:** Recomiendo dejarlo en **2x, 4x o Predeterminado** (si lo subes más se verá mejor, pero consumirá más).
+    *   **ASTC Recompression Method:** Recomiendo dejarlo en **BC3 y BC1**. No cambiará nada visualmente y suma muchísimos FPS.
+    *   Activa las casillas **"Force Maximum Clocks"** (Solo funciona en Vulkan) y **"Sync to Framerate of Video Playback"**.
+
+*   **🔌 Extensiones Gráficas:**
+    *   Activa **"Fix Bloom Effects"** y **"Enable Asynchronous Shader Compilation"**.
+
+---
+
+## ⚠️ Nota del Autor
+Debido a que las Boxes (*Pit Stop*) requieren conexión a servidores oficiales de Activision, se recomienda encarecidamente instalar un **Save Game al 100%** en la carpeta de usuario de tu emulador para tener desbloqueados todos los personajes (como Spyro o Nina Cortex) y todas las skins desde el primer segundo.
+
+*Disfruta de este juegazo a maximos FPS!*
