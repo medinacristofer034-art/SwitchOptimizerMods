@@ -1,4 +1,4 @@
-# 🧬 Proyecto #15: Pokémon Legends: Z-A (v1.0.1)
+# 🧬 Proyecto #15: Pokémon Legends: Z-A (v1.0.1 Y 2.0.2)
 > **Status:** `ULTRA-SHARP` | **Version:** `1.0.1` | **Build ID:** `7B0C5E6D8A1F92B`
 
 Este proyecto marca el hito de los 15 juegos optimizados. Se enfoca en limpiar la imagen borrosa de Ciudad Luminalia y estabilizar el rendimiento en hardware de gama media e integradas, eliminando cuellos de botella de memoria y procesado de audio.
