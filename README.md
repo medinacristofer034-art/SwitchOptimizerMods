@@ -1,10 +1,10 @@
-🧪 Kirby's Scientific Sanctuary : The Ultimate Performance Lab 
+🧪 Switch Optimizer Mod
 (![Kirby png](https://github.com/user-attachments/assets/67ba2df9-c5e6-4672-bdf8-fe1aa7fd9828)
 
 
 ## 🔬 Sobre este Proyecto
-¡Bienvenido al laboratorio! Este repositorio está dedicado a la optimización extrema de las sagas de nintendo en nintendo switch 
-**Nuestra especialidad:** Juegos y versiones que han sido olvidados por otras comunidades de modding. (Tambien planeamos Con Sagas Como Super Mario, Donkey Kong Country, The Legends Of Zelda, etc)
+¡Bienvenido a Switch Optimizer Mod! Este repositorio está dedicado a la optimización extrema de las sagas de Nintendo en Nintendo Switch 
+**Nuestra especialidad:** Mods para juegos de Nintendo Switch (Super Mario, Zelda, Kirby, Pokemon, Etc) Y Exprimir el maximo de FPS
 
 ### 🧬 Proyectos Destacados
 * **[Kirby Star Allies]** - Parche de 30 FPS + No Outlines + Physics Fix (v4.0.0).
@@ -12,23 +12,17 @@
 * **[Próximamente]** - Optimizaciones para Kirby's Dream Buffet.
 
 ---
-**Créditos de Arte:** Dibujo original de mi hermano (Estilo Científico Insano).
+**Créditos de Arte:** Dibujo original de mi hermano un crack (Estilo del Meme de Albert Ensteind Y Nicolas Tesla bien fachas)
 
 Este proyecto es solo para fines educativos y de optimización. No se proporcionan archivos de juego. Debes poseer una copia legal del juego para usar estos mods
 ## 🎯 Nuestra Especialidad
 Aquí no buscamos 4K, buscamos que **puedas jugar** sin importar tu PC.
 
-## 📁 Proyectos por Juego
-Haz clic en el juego para ver los niveles de optimización (Patata, Intermedio, Ultra):
----
-
-
-
 ---
 * ** [Super Mario Odyssey v1.3.0] - Especialistas en eliminar lag en New Donk City.
 * **[Kirby Star Allies] Parche de 30 FPS + No Outlines + Physics Fix (v4.0.0).
 * **[Kirby Fighters 2] Estabilidad total 1080p/60fps.
-* **[Próximamente]** - Optimizaciones para Kirby's Dream Buffet y Zelda.
+* **[Próximamente]** - Metroid Prime Remastered, Metroid Prime 4 Beyond, Demas juegos de Pokemons y otros juegos exclusivos 
 * **Super Mario Wonder]** - 60 Fps Estables, Fluidez Total Y Imagen Nitida
 * **Super Mario 3D World + Bowser Fury]** - 30 Fps Estables, Agua Cristalina Y Optimizada, Imagen Nitida
 ---
@@ -37,14 +31,6 @@ Haz clic en el juego para ver los niveles de optimización (Patata, Intermedio, 
 💨COMO PONER MODS En Ryujinx: Selecciona El Juego, Darle Click derecho Y Poner "Abrir Directorio De Mods", Pega toos los mods de la carpeta de mods del juegpo y listo, Si quieres activarlo y desactivarlo dale click derecho al juego, pon "Gestionar Mods" Ahi Puedes Acivar Y Desactivar Los Mods (Indicados Por Un "Cuadro Celeste" O El Nombre Del Mod Esta En Gris)
 ---
 
-## 📊 Niveles de Optimización (¿Cuál elegir?)
-| Nivel | Recomendado para | ¿Qué esperar? |
-| :--- | :--- | :--- |
-| **🥔 Patata** | Integradas / 8GB RAM | Sombras 1x1, sin Bloom/DoF. Máximos FPS. |
-| **⚖️ Intermedio** | GTX 1650 / i3-9100F | 720p/1080p Nítido. El equilibrio perfecto. |
-| **🚀 Ultra** | RTX / 16GB RAM | Sombras HD y máxima distancia de dibujado. |
-
----
  ⚠️ **Aviso:** Este proyecto es solo para fines educativos. No se proporcionan archivos de juego (ROMs). Debes poseer una copia legal.
  
 ❓ Preguntas Frecuentes (FAQ) - Pack de Optimización Cinematográfica
@@ -137,6 +123,9 @@ Porque en una PC débil, los 60 FPS suelen ser inalcanzables o muy inestables. N
 * **Kirby Return To Dreamland Deluxe:** despues del primer nivel no tendras casi ningun tiron, los modos funcionan muy bien y muy nitido
 * **Super Smash Bros Ultimate:** Pausa las animaciones del ecenario, ahorrando recursos y consiguiendo la maxima fluidez y nitidez, ideal para partidas casuales y competitivas
 * **Super Mario 3D World + Bowser Fury:** el juego tendra muy pocos tirones, una imagen nitida apesar del escalado del juego, asi no tendremos en ponernos furioso por el juego
+* **Crash Team Racing Nitro Fueled:** Un juego que no esta en PC, Tienes parches para desactivar el Post-Procesado, Resolucion Dinamica, 30 FPS Estables y Simplificar pelaje de animales (Si tienes una PC De gama media-alta, activa algun parche de 60 FPS)
+* **Leyendas Pokemon Z-A:** Aunque es un juego que me disguste, no podia evitar sacar parches para su version mas reciente (2.0.2) y la mas antigua (1.0.1) Que evita parpadeos en objetos lejanos, rendimiento brutal, Animaciones lejanas a 30 FPS (Y No a 2, 15, etc
+* **Todos los juegos de Kirby:** Los demas juegos (Kirby Y La Tierra Olvidada, Kirby Star Allies y Super Kirby Clash) tambien tienen Mods, que desactivan Post-Procesado, Resolucion Dinamica, Desactiva las lines al borde, etc...
 
 ¿Tu PC no corre un juego? ¡Pídelo aquí!
 
