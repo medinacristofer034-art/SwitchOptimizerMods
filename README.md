@@ -6,6 +6,8 @@
 ¡Bienvenido a Switch Optimizer Mod! Este repositorio está dedicado a la optimización extrema de las sagas de Nintendo en Nintendo Switch 
 **Nuestra especialidad:** Mods para juegos de Nintendo Switch (Super Mario, Zelda, Kirby, Pokemon, Etc) Y Exprimir el maximo de FPS
 
+**Canal De YouTube:** www.youtube.com/@SwitchOptimizerMods
+
 ### 🧬 Proyectos Destacados
 * **[Kirby Star Allies]** - Parche de 30 FPS + No Outlines + Physics Fix (v4.0.0).
 * **[Kirby Fighters 2]** - Estabilidad total 1080p/60fps.
