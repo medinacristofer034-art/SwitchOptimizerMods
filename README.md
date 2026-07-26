@@ -8,23 +8,17 @@
 
 **Canal De YouTube:** www.youtube.com/@SwitchOptimizerMods
 
-### 🧬 Proyectos Destacados
-* **[Kirby Star Allies]** - Parche de 30 FPS + No Outlines + Physics Fix (v4.0.0).
-* **[Kirby Fighters 2]** - Estabilidad total 1080p/60fps.
-* **[Próximamente]** - Optimizaciones para Kirby's Dream Buffet.
-
 ---
-**Créditos de Arte:** Dibujo original de mi hermano un crack (Estilo del Meme de Albert Ensteind Y Nicolas Tesla bien fachas)
 
 Este proyecto es solo para fines educativos y de optimización. No se proporcionan archivos de juego. Debes poseer una copia legal del juego para usar estos mods
 ## 🎯 Nuestra Especialidad
-Aquí no buscamos 4K, buscamos que **puedas jugar** sin importar tu PC.
+Aquí no buscamos 4K, buscamos que **puedas jugar** sin importar tu PC O Celular.
 
 ---
 * ** [Super Mario Odyssey v1.3.0] - Especialistas en eliminar lag en New Donk City.
 * **[Kirby Star Allies] Parche de 30 FPS + No Outlines + Physics Fix (v4.0.0).
 * **[Kirby Fighters 2] Estabilidad total 1080p/60fps.
-* **[Próximamente]** - Metroid Prime Remastered, Metroid Prime 4 Beyond, Demas juegos de Pokemons y otros juegos exclusivos 
+* **[Próximamente]** - Persona 5 Royal, Metroid Prime 4 Beyond, Demas juegos de Pokemons y otros juegos exclusivos 
 * **Super Mario Wonder]** - 60 Fps Estables, Fluidez Total Y Imagen Nitida
 * **Super Mario 3D World + Bowser Fury]** - 30 Fps Estables, Agua Cristalina Y Optimizada, Imagen Nitida
 ---
@@ -32,8 +26,6 @@ Aquí no buscamos 4K, buscamos que **puedas jugar** sin importar tu PC.
 ---
 💨COMO PONER MODS En Ryujinx: Selecciona El Juego, Darle Click derecho Y Poner "Abrir Directorio De Mods", Pega toos los mods de la carpeta de mods del juegpo y listo, Si quieres activarlo y desactivarlo dale click derecho al juego, pon "Gestionar Mods" Ahi Puedes Acivar Y Desactivar Los Mods (Indicados Por Un "Cuadro Celeste" O El Nombre Del Mod Esta En Gris)
 ---
-
- ⚠️ **Aviso:** Este proyecto es solo para fines educativos. No se proporcionan archivos de juego (ROMs). Debes poseer una copia legal.
  
 ❓ Preguntas Frecuentes (FAQ) - Pack de Optimización Cinematográfica
 <details>
