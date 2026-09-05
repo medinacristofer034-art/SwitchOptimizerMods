@@ -11,18 +11,15 @@
 ---
 
 Este proyecto es solo para fines educativos y de optimización. No se proporcionan archivos de juego. Debes poseer una copia legal del juego para usar estos mods
-## 🎯 Nuestra Especialidad
-Aquí no buscamos 4K, buscamos que **puedas jugar** sin importar tu PC O Celular.
 
+**Proyectos destacados**
+--Crash Team Racing Nitro Fueled: Este juego no ha salido para PC, y su version de PS4 Es bastante inestable usando ShadPS4 (Sobre todo en PC De Gama Media-Baja) Asi que esta (Para mi) es la mejor forma de jugar CTR Nitro Fueled (Recomendado tener una partida u mod que te desbloquea todo del Online)
+--Todos los juegos de Kirby: Estan todos (La tierra olvidada, Star Allies, Return To Dream Land Deluxe, Dream Buffet y Super Kirby Clash) Y Que mejoran el rendimiento bastante
+--Otros: Estan otros Third Party que les hice Mods porque estaba aburrido (Recomiendo jugar sus versiones nativas de PC) Crash Bandicoot N Sane Trilogy, Crash Bandicoot 4 Ii's About Time y Mortal Kombat 1 
 ---
-* ** [Super Mario Odyssey v1.3.0] - Especialistas en eliminar lag en New Donk City.
-* **[Kirby Star Allies] Parche de 30 FPS + No Outlines + Physics Fix (v4.0.0).
-* **[Kirby Fighters 2] Estabilidad total 1080p/60fps.
-* **[Próximamente]** - Persona 5 Royal, Metroid Prime 4 Beyond, Demas juegos de Pokemons y otros juegos exclusivos 
-* **Super Mario Wonder]** - 60 Fps Estables, Fluidez Total Y Imagen Nitida
-* **Super Mario 3D World + Bowser Fury]** - 30 Fps Estables, Agua Cristalina Y Optimizada, Imagen Nitida
+a
 ---
-🔥COMO PONER LOS MODS En Yuzu: Seleccionar el juego, darle Click Derecho y poner "Abrir Ubicacion De Mods", Pegasr Todos Los Mods de la carpeta de mods y listo, si quieres activarlo y desactivarlo dale Click Derecho, Ve A Propiedades y puedes activar y desactivar los mods (Indicados por un Ticket)
+🔥COMO PONER LOS MODS En Yuzu: Seleccionar el juego, darle Click Derecho y poner "Abrir Ubicacion De Mods", Pegar Todos Los Mods de la carpeta de mods y listo, si quieres activarlo y desactivarlo dale Click Derecho, Ve A Propiedades y puedes activar y desactivar los mods (Indicados por un Ticket)
 ---
 💨COMO PONER MODS En Ryujinx: Selecciona El Juego, Darle Click derecho Y Poner "Abrir Directorio De Mods", Pega toos los mods de la carpeta de mods del juegpo y listo, Si quieres activarlo y desactivarlo dale click derecho al juego, pon "Gestionar Mods" Ahi Puedes Acivar Y Desactivar Los Mods (Indicados Por Un "Cuadro Celeste" O El Nombre Del Mod Esta En Gris)
 ---
@@ -110,16 +107,6 @@ Recomendamos usar <b>Vulkan</b> como API gráfica, ya que gestiona mucho mejor l
 Porque en una PC débil, los 60 FPS suelen ser inalcanzables o muy inestables. Nuestra filosofía es que es mejor tener una experiencia de <b>30 FPS rocosos con imagen nítida de alta gama</b> que una experiencia de 60 FPS borrosa y con caídas constantes.
 </p>
 </details>
-
-## ⚙Proyectos Destacados
-* **The Legends Of Zelda Echoes Of Wisdom:** Elimina efectos del juego que "Ensucian La Imagen" Haciendo que el juego se vea mas nitido y que vaya mil veces mejor
-* **Kirby Dream Buffet:** El juego ya no tiene casi errores, sin desincronizaciones, sin bugs y un rendimiento igual de bueno que comer un pastel
-* **Kirby Return To Dreamland Deluxe:** despues del primer nivel no tendras casi ningun tiron, los modos funcionan muy bien y muy nitido
-* **Super Smash Bros Ultimate:** Pausa las animaciones del ecenario, ahorrando recursos y consiguiendo la maxima fluidez y nitidez, ideal para partidas casuales y competitivas
-* **Super Mario 3D World + Bowser Fury:** el juego tendra muy pocos tirones, una imagen nitida apesar del escalado del juego, asi no tendremos en ponernos furioso por el juego
-* **Crash Team Racing Nitro Fueled:** Un juego que no esta en PC, Tienes parches para desactivar el Post-Procesado, Resolucion Dinamica, 30 FPS Estables y Simplificar pelaje de animales (Si tienes una PC De gama media-alta, activa algun parche de 60 FPS)
-* **Leyendas Pokemon Z-A:** Aunque es un juego que me disguste, no podia evitar sacar parches para su version mas reciente (2.0.2) y la mas antigua (1.0.1) Que evita parpadeos en objetos lejanos, rendimiento brutal, Animaciones lejanas a 30 FPS (Y No a 2, 15, etc
-* **Todos los juegos de Kirby:** Los demas juegos (Kirby Y La Tierra Olvidada, Kirby Star Allies y Super Kirby Clash) tambien tienen Mods, que desactivan Post-Procesado, Resolucion Dinamica, Desactiva las lines al borde, etc...
 
 ¿Tu PC no corre un juego? ¡Pídelo aquí!
 
