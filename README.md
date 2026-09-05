@@ -10,9 +10,13 @@
 
 ---
 
-Este proyecto es solo para fines educativos y de optimización. No se proporcionan archivos de juego. Debes poseer una copia legal del juego para usar estos mods
+**Este proyecto es solo para fines educativos y de optimización. No se proporcionan archivos de juego. Debes poseer una copia legal del juego para usar estos mods**
+
+---
+
 
 **Proyectos destacados**
+
 --Crash Team Racing Nitro Fueled: Este juego no ha salido para PC, y su version de PS4 Es bastante inestable usando ShadPS4 (Sobre todo en PC De Gama Media-Baja) Asi que esta (Para mi) es la mejor forma de jugar CTR Nitro Fueled (Recomendado tener una partida u mod que te desbloquea todo del Online)
 
 --Todos los juegos de Kirby: Estan todos (La tierra olvidada, Star Allies, Return To Dream Land Deluxe, Dream Buffet y Super Kirby Clash) Y Que mejoran el rendimiento bastante
